@@ -89,7 +89,7 @@ class _PriceScreenState extends State<PriceScreen> {
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 20.0,
-                    color: Colors.white,
+                    color: Colors.white70,
                   ),
                 ),
               ),
